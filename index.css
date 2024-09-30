@@ -7,9 +7,9 @@
 }
 
 .image {
-    width: 100px;
+    width: 200px;
     margin: 30px;
-    padding: 20px
+  
 }
 
 .heading {
@@ -32,5 +32,5 @@
 }
 .h{
     background-color: #FFFDD0;
-    padding: 20px
+    padding: 20px;
 }
