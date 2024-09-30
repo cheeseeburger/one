@@ -9,12 +9,10 @@
 .image {
     width: 200px;
     margin: 30px;
-  
 }
 
 .heading {
     font-size: 24px;
-    padding: 20px
 }
 
 .awards {
@@ -28,9 +26,5 @@
 }
 .p{
     font-size: 25px;
-    
 }
-.h{
-    background-color: #FFFDD0;
-    padding: 20px;
-}
+
